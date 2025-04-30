@@ -5,7 +5,6 @@ to multiply a chain of matrices, using recursive evaluation and Catalan numbers.
 
 ## Files
 - `matrix-chain.cpp`: The full C++ implementation
-- (Optional) `COSC 3320 HW 2 Q3.pdf`: Original write-up and explanation
 
 ## Description
 The algorithm uses:
