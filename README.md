@@ -4,7 +4,7 @@ This C++ program computes the average number of scalar multiplications needed
 to multiply a chain of matrices, using recursive evaluation and Catalan numbers.
 
 ## Files
-- `matrix_chain.cpp`: The full C++ implementation
+- `matrix-chain.cpp`: The full C++ implementation
 - (Optional) `COSC 3320 HW 2 Q3.pdf`: Original write-up and explanation
 
 ## Description
